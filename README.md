@@ -27,4 +27,4 @@ I'm Kritik Daniyal, a Computer Science undergraduate student at N.I.T Hamirpur. 
 
 
 ### 🥷 More About Me :
-<img src="https://github-readme-stats.vercel.app/api?username=aman-d-1-n-only&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KriTiCal007&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>
