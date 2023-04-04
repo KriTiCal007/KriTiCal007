@@ -1,4 +1,5 @@
 ## Hi there ,👋
+![Kririk Cover Letter](https://iili.io/HORyd8v.png)
 I'm Kritik Daniyal, a Computer Science undergraduate student at N.I.T Hamirpur. I am a passionate game developer who is highly skilled in a variety of game engines, and development tools, and who has a deep understanding of game design principles and player psychology.
 
 #### Connect with me -
@@ -8,7 +9,7 @@ I'm Kritik Daniyal, a Computer Science undergraduate student at N.I.T Hamirpur. 
 ![Profile views](https://gpvc.arturio.dev/KriTiCal007)
 
 
-### 💻 Work Experience :
+### :video_game: Work Experience :
 > Currently working as UI/UX Designer at Blockv3rse Media
 
 ### 🥇 Skills :
