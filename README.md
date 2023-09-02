@@ -6,7 +6,7 @@ I'm Kritik Danyal, a Computer Science undergraduate student at N.I.T Hamirpur. I
 [![Behance Badge](https://img.shields.io/badge/-kritik-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/kritik221)](https://www.behance.net/kritik221)
 [![Gmail Badge](https://img.shields.io/badge/-kritikal070@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kritikal070@gmail.com)](mailto:kritikal070@gmail.com) 
 
-![Profile views](https://gpvc.arturio.dev/KriTiCal007)
+![Profile views](https://komarev.com/ghpvc/?username=KriTiCal007)
 
 
 ### :video_game: Work Experience :
