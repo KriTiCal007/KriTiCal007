@@ -10,7 +10,7 @@ I'm Kritik Danyal, a Computer Science undergraduate student at N.I.T Hamirpur. I
 
 
 ### :video_game: Work Experience :
-> Currently working as UI/UX Designer at Kyte
+> Currently working as UI/UX Designer at GenaDrop
 
 ### 🥇 Skills :
 ![Figma](https://img.shields.io/badge/-Figma-A020F0?style=flat-square&logo=figma)
