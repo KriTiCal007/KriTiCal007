@@ -1,6 +1,6 @@
 ## Hi there ,👋
 ![Kririk Cover Letter](https://iili.io/HORyd8v.png)
-I'm Kritik Danyal, a Computer Science undergraduate student at N.I.T Hamirpur. I am a passionate game developer who is highly skilled in a variety of game engines, and development tools, and who has a deep understanding of game design principles and player psychology.
+I'm Kritik Danyal, a Computer Science undergraduate student at N.I.T Hamirpur. I am a passionate person who is highly skilled in a variety of technologies, and development tools, and who has a deep understanding of design principles and user psychology.
 
 #### Connect with me -
 [![Behance Badge](https://img.shields.io/badge/-kritik-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/kritik221)](https://www.behance.net/kritik221)
